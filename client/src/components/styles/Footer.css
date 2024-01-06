@@ -1,0 +1,16 @@
+.footer {
+    background-color: #343a40; /* Set your desired background color */
+    color: #fff; /* Set your desired text color */
+    padding: 20px 0; /* Add some padding for spacing */
+  }
+  
+  .footer-text {
+    margin-bottom: 0; /* Remove default margin for cleaner look */
+  }
+  
+  .footer-link {
+    color: #fff; /* Set the link color */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Make the link bold */
+  }
+  
